@@ -1,3 +1,6 @@
+Clickable CODA map
+
+```mermaid
 flowchart LR
         %% LABELS 
         ROOT((("Alpha\nVerification")))
@@ -121,3 +124,4 @@ flowchart LR
     click HW_MODULES href "https://coda.io/d/_dsmgymC2yEv/HW-modules_sunsp"
     click MINUTES_LEARN href "https://coda.io/d/_dsmgymC2yEv/Learning-Events-Notes_suzQd"
     click MINUTES_CORE href "https://coda.io/d/_dsmgymC2yEv/Core-Team-Notes_suBjv"
+```
